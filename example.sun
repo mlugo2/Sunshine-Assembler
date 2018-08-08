@@ -1,0 +1,3 @@
+start
+mov v[pos], c[pos]
+end
